@@ -1,0 +1,28 @@
+body, html {
+	font-family: "Open Sans", sans-serif;
+	font-size; 14px;
+	color: #333333
+}
+
+header > .top-line > .container {
+	height: 36px;
+	background-color: #F2F2F3;
+}
+
+header > .main-menu > .container {
+	height: 36px;
+	background-color: #C1121F;	
+}
+
+
+.container {
+	width: 1100px;	
+	margin: 0 auto;
+}
+
+.link {
+	border: none;
+	background: none;
+	outline: none;	
+}
+
